@@ -1,0 +1,24 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "UtopiChat-websocket-server",
+  "main": "server.js",
+  "dependencies": {
+    "socket.io": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elyeel/UtopiChat-websocket-server.git"
+  },
+  "author": "Risyardi Iswanto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elyeel/UtopiChat-websocket-server/issues"
+  },
+  "homepage": "https://github.com/elyeel/UtopiChat-websocket-server#readme"
+}
