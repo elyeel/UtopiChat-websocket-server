@@ -4,7 +4,7 @@
   "description": "UtopiChat-websocket-server",
   "main": "server.js",
   "dependencies": {
-    "socket.io": "^3.0.0"
+    "socket.io": "^3.1.2"
   },
   "devDependencies": {},
   "scripts": {
